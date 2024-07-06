@@ -1,15 +1,19 @@
 {
-  "name": "____",
+  "name": "vue-lint-vitesse-lite-template",
   "type": "module",
   "version": "0.0.0",
   "private": true,
-  "description": "_______",
+  "description": "template",
   "author": {
     "name": "huanxiaomang",
     "email": "atri2022@163.com",
     "url": "https://github.com/huanxiaomang"
   },
-  "keywords": [],
+  "keywords": [
+    "template",
+    "vue",
+    "vitesse"
+  ],
   "scripts": {
     "build": "vite build",
     "dev": "vite --port 3333 --open",
