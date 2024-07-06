@@ -1,3 +1,3 @@
 export interface UserInfo {
-  userId: string;
+  userId: string
 }

@@ -7,6 +7,7 @@
     "module": "ESNext",
     "moduleResolution": "bundler",
     "paths": {
+      "#/*": ["types/*"],
       "~/*": ["src/*"]
     },
     "resolveJsonModule": true,
@@ -22,6 +23,7 @@
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "skipLibCheck": true
+
   },
   "exclude": [
     "dist",
